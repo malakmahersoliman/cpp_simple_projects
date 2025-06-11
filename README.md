@@ -12,7 +12,7 @@ This is a simple **Student Management System** built using **Object Oriented Pro
 5. Delete Student  
 6. Exit
 
-> 🎥 Inspired by: [Student Management System by Safdar Dogar](https://www.youtube.com/watch?v=6yp0C5G5EKo)
+
 
 ---
 
